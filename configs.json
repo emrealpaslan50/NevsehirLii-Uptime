@@ -1,0 +1,22 @@
+{
+"bot":{
+"token": "",
+"prefix": "!",
+"developer": "797369628610265108", 
+"mongooseConnectLink": "mongodb+srv://mongo123:mongo9999@cluster0.qmdme.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+},
+
+"roles":{
+"premiumRole": "",
+"moderatorRole": ""
+},
+
+"channels": {
+"uptimeLog": "849806291236159548"
+},
+
+"emojis":{
+"ticEmoji": ":nev_acik:",
+"crossEmoji": ":nev_kapali:"
+}
+}
